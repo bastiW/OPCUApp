@@ -1,0 +1,17 @@
+{
+  "name": "OPCUApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "justgage": "^1.2.2",
+    "react": "15.2.1",
+    "react-chartist": "^0.10.2",
+    "react-dom": "^15.3.0",
+    "react-faux-dom": "^2.7.1",
+    "react-native": "0.31.0",
+    "socket.io-client": "^1.4.8"
+  }
+}
